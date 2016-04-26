@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/dropdown_popup_background_up.9.png",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/drawable-hdpi-v4/dropdown_popup_background_up.9.png"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_warning.png",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_warning.png"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/dropdown_popup_background_down.9.png",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/drawable-hdpi-v4/dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_search.png",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_search.png"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/bubble_arrow_up.png",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bubble_arrow_up.png"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_menu_share_holo_light.png",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/verify_checkmark.png",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/drawable-hdpi-v4/verify_checkmark.png"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/bubble.9.png",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/drawable-hdpi-v4/bubble.9.png"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ondemand_overlay.9.png",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ondemand_overlay.9.png"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/color_picker_advanced_select_handle.png",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/drawable-hdpi-v4/color_picker_advanced_select_handle.png"
+    }
+]

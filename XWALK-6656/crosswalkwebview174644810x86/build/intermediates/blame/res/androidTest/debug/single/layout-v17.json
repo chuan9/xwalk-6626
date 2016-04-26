@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/layout-v17/color_picker_dialog_title.xml",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/layout-v17/color_picker_dialog_title.xml"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/layout-v17/two_field_date_picker.xml",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/layout-v17/two_field_date_picker.xml"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/layout-v17/color_picker_dialog_content.xml",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/layout-v17/color_picker_dialog_content.xml"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/layout-v17/dropdown_item.xml",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/layout-v17/dropdown_item.xml"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/layout-v17/validation_message_bubble.xml",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/layout-v17/validation_message_bubble.xml"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/layout-v17/multi_field_time_picker_dialog.xml",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/layout-v17/multi_field_time_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/layout-v17/autofill_keyboard_accessory_item.xml",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/layout-v17/autofill_keyboard_accessory_item.xml"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/layout-v17/color_picker_advanced_component.xml",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/layout-v17/color_picker_advanced_component.xml"
+    },
+    {
+        "merged": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/res/merged/androidTest/debug/layout-v17/date_time_suggestion.xml",
+        "source": "/home/lc/AndroidStudioProjects/XWALK-6656/crosswalkwebview174644810x86/build/intermediates/bundles/debug/res/layout-v17/date_time_suggestion.xml"
+    }
+]
